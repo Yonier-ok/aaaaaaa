@@ -1,0 +1,56 @@
+[23:22:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:22:34] [ServerMain/INFO]: No existing world data, creating new world
+[23:22:35] [ServerMain/INFO]: Loaded 1373 recipes
+[23:22:35] [ServerMain/INFO]: Loaded 1484 advancements
+[23:22:35] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[23:22:35] [Server thread/INFO]: Loading properties
+[23:22:35] [Server thread/INFO]: Default game type: SURVIVAL
+[23:22:35] [Server thread/INFO]: Generating keypair
+[23:22:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:22:35] [Server thread/INFO]: Using epoll channel type
+[23:22:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:22:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:22:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:22:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:22:35] [Server thread/INFO]: Preparing level "world"
+[23:22:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:22:41] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[23:22:41] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[23:22:42] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[23:22:42] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:22:43] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[23:22:43] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[23:22:44] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[23:22:44] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[23:22:45] [Server thread/INFO]: Time elapsed: 3971 ms
+[23:22:45] [Server thread/INFO]: Done (9.381s)! For help, type "help"
+[23:23:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:27:13] [Server thread/INFO]: ososans[/127.190.228.15:36343] logged in with entity id 9 at (-36.5, 71.0, -40.5)
+[23:27:13] [Server thread/INFO]: ososans joined the game
+[23:27:58] [Server thread/INFO]: yonier1[/127.38.250.47:59721] logged in with entity id 389 at (-23.5, 71.0, -27.5)
+[23:27:58] [Server thread/INFO]: yonier1 joined the game
+[23:28:20] [Server thread/INFO]: Made yonier1 a server operator
+[23:28:23] [Server thread/INFO]: ososans has made the advancement [Stone Age]
+[23:28:35] [Server thread/INFO]: [Not Secure] <yonier1> oso
+[23:28:40] [Server thread/INFO]: [Not Secure] <ososans> dime
+[23:28:54] [Server thread/INFO]: [Not Secure] <yonier1> no nada que todavia no toca empesar
+[23:29:01] [Server thread/INFO]: [Not Secure] <yonier1> empezar*
+[23:29:05] [Server thread/INFO]: ososans has made the advancement [Getting an Upgrade]
+[23:29:38] [Server thread/INFO]: [Not Secure] <ososans> com asi ??
+[23:29:43] [Server thread/INFO]: [Not Secure] <ososans> que aun no haga nada ?
+[23:29:52] [Server thread/INFO]: [Not Secure] <yonier1> toca esperar a los compañeros
+[23:30:16] [Server thread/INFO]: [Not Secure] <ososans> onde estas no te veo
+[23:30:41] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-60, y=65, z=14} iw{x=-40, y=64, z=-37}
+[23:30:42] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-60, y=65, z=14} iw{x=-37, y=63, z=-32}
+[23:30:44] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-60, y=65, z=14} iw{x=-39, y=63, z=-31}
+[23:31:08] [Server thread/INFO]: yonier1 has made the advancement [Stone Age]
+[23:31:41] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-60, y=65, z=14} iw{x=-34, y=56, z=-18}
+[23:31:42] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-60, y=65, z=14} iw{x=-35, y=56, z=-17}
+[23:31:42] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-60, y=65, z=14} iw{x=-35, y=55, z=-16}
+[23:32:00] [Server thread/INFO]: yonier1 has made the advancement [Getting an Upgrade]
+[23:32:12] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-60, y=65, z=14} iw{x=-34, y=56, z=-18}
+[23:32:12] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-60, y=65, z=14} iw{x=-34, y=56, z=-18}
+[23:32:13] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-60, y=65, z=14} iw{x=-35, y=56, z=-17}
+[23:32:16] [Server thread/INFO]: [Not Secure] <ososans> no puedo romper aca
+[23:32:21] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-60, y=65, z=14} iw{x=-34, y=56, z=-18}
+[23:32:21] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-60, y=65, z=14} iw{x=-34, y=55, z=-18}
