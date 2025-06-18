@@ -362,7 +362,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-06-17 23:37:33 +0000"
+      "cooked_porkchop": "2025-06-17 23:37:33 +0000",
+      "apple": "2025-06-18 00:05:09 +0000"
     },
     "done": false
   },
@@ -855,6 +856,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-06-17 23:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-18 00:02:58 +0000"
     },
     "done": true
   },
