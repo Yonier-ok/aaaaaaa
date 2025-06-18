@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-18 02:02:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-06-18 01:50:24 +0000"
@@ -410,6 +416,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-18 01:47:33 +0000",
+      "minecraft:zombie": "2025-06-18 02:02:15 +0000",
       "minecraft:creeper": "2025-06-18 01:58:45 +0000"
     },
     "done": false
@@ -542,6 +549,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-18 02:08:12 +0000",
       "cooked_mutton": "2025-06-18 01:54:28 +0000"
     },
     "done": false
