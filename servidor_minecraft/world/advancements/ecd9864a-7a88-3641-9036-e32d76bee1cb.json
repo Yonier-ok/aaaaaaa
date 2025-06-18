@@ -371,6 +371,7 @@
       "cooked_porkchop": "2025-06-17 23:37:33 +0000",
       "mutton": "2025-06-18 01:10:04 +0000",
       "apple": "2025-06-18 00:05:09 +0000",
+      "bread": "2025-06-18 03:02:01 +0000",
       "cooked_chicken": "2025-06-18 00:25:52 +0000",
       "rotten_flesh": "2025-06-18 00:20:16 +0000",
       "cooked_mutton": "2025-06-18 01:46:06 +0000",
@@ -876,6 +877,7 @@
       "minecraft:spider": "2025-06-18 00:12:45 +0000",
       "minecraft:zombie": "2025-06-17 23:58:22 +0000",
       "minecraft:creeper": "2025-06-18 00:15:41 +0000",
+      "minecraft:zombie_villager": "2025-06-18 03:01:17 +0000",
       "minecraft:slime": "2025-06-18 00:30:54 +0000"
     },
     "done": false
@@ -1615,6 +1617,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-06-18 02:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-18 03:04:39 +0000"
     },
     "done": true
   },
