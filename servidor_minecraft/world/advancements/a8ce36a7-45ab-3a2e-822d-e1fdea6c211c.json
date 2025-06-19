@@ -376,7 +376,8 @@
       "rotten_flesh": "2025-06-19 00:30:35 +0000",
       "sweet_berries": "2025-06-19 00:59:44 +0000",
       "cooked_beef": "2025-06-18 00:18:35 +0000",
-      "beef": "2025-06-19 00:13:44 +0000"
+      "beef": "2025-06-19 00:13:44 +0000",
+      "porkchop": "2025-06-19 01:57:16 +0000"
     },
     "done": false
   },
@@ -992,6 +993,18 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-06-19 01:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-19 01:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-19 01:55:52 +0000"
     },
     "done": true
   },
